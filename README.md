@@ -323,8 +323,6 @@ CyberWriter helps move information into your vault without rebuilding the struct
 
 ### 🧠 AI-Powered Mac Workspace
 
-<a href="https://filecr.download/">
-<img src="https://img.shields.io/badge/🤖%20GET%20CYBERWRITER-🧠%20AI%20WORKSPACE-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" alt="Get CyberWriter AI Workspace">
 </a>
 
 🤖 **AI** • 🧠 **Local Models** • 🔑 **API Keys** • 📋 **Plans** • ↩️ **Undo**
